@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "this is a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henghei/hello.git"
+  },
+  "keywords": [
+    "hei"
+  ],
+  "author": "nannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henghei/hello/issues"
+  },
+  "homepage": "https://github.com/henghei/hello#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
